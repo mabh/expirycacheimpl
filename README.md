@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/mabh/expirycacheimpl.svg?branch=master)](https://travis-ci.org/mabh/expirycacheimpl)
+
+
 A cache implementation with concurrent expired entries collector (analogous to a concurrent garbage collector)
 
 Store list is a list of StoreListElements
